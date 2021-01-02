@@ -13,4 +13,4 @@ Non-functional Requirements:
 1) More than one client process cannot be allowed to use the same file as a data store at any given time.
 2) A client process is allowed to access the data store using multiple threads,if it desires to.
 
-Go through the attached operation.py file, maincode.py and for better understanding see screenshot file that are attached here with in order to understand clearly how the code works and how to perform operations in this.
+Go through the attached operation.py file, maincode.py files that are attached here with in order to understand clearly how the code works and how to perform operations in this.
